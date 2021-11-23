@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jobinreact/static/css/main.8f5246e1.chunk.css",
+    "main.js": "/jobinreact/static/js/main.db49e9b7.chunk.js",
+    "main.js.map": "/jobinreact/static/js/main.db49e9b7.chunk.js.map",
+    "runtime-main.js": "/jobinreact/static/js/runtime-main.9633b9d0.js",
+    "runtime-main.js.map": "/jobinreact/static/js/runtime-main.9633b9d0.js.map",
+    "static/js/2.73dc2450.chunk.js": "/jobinreact/static/js/2.73dc2450.chunk.js",
+    "static/js/2.73dc2450.chunk.js.map": "/jobinreact/static/js/2.73dc2450.chunk.js.map",
+    "static/js/3.9724fd58.chunk.js": "/jobinreact/static/js/3.9724fd58.chunk.js",
+    "static/js/3.9724fd58.chunk.js.map": "/jobinreact/static/js/3.9724fd58.chunk.js.map",
+    "index.html": "/jobinreact/index.html",
+    "static/css/main.8f5246e1.chunk.css.map": "/jobinreact/static/css/main.8f5246e1.chunk.css.map",
+    "static/js/2.73dc2450.chunk.js.LICENSE.txt": "/jobinreact/static/js/2.73dc2450.chunk.js.LICENSE.txt",
+    "static/media/d.46d57a20.jpg": "/jobinreact/static/media/d.46d57a20.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9633b9d0.js",
+    "static/js/2.73dc2450.chunk.js",
+    "static/css/main.8f5246e1.chunk.css",
+    "static/js/main.db49e9b7.chunk.js"
+  ]
+}
