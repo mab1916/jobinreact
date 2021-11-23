@@ -201,13 +201,14 @@ body {
 }
 .single-chart {
   width: 100%;
-  justify-content: space-around ;
+  justify-content: space-around;
 }
 .circular-chart {
   display: block;
   margin: 10px auto;
   max-width: 80%;
   max-height: 250px;
+  transform: rotate(180deg);
 }
 .circle-bg {
   fill: none;

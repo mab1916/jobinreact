@@ -102,7 +102,7 @@ function App() {
           a 15.9155 15.9155 0 0 1 0 31.831
           a 15.9155 15.9155 0 0 1 0 -31.831"
                     />
-                    <text x="18" y="20.35" class="percentage">90%</text>
+                    <text x="18" y="20.35" class="percentage">%06</text>
                   </svg>
                 </div>
               </div>
